@@ -1,5 +1,6 @@
 # AsymmetricAugmentedRealityGame
-A two player augmented reality game using an Axis camera.
+This project was conducted for Connected Systems and Devices class during our Master in Computer Science.
+It is a two player augmented reality game using an Axis camera.
 
 ## Description
 Two players must work together to defuse bombs before they explode.
