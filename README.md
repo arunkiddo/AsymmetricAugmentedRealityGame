@@ -20,5 +20,5 @@ https://youtu.be/H2Q0k6yuxPE
 ![alt tag](https://raw.githubusercontent.com/BjornHansson/AsymmetricAugmentedRealityGame/master/systemOverview_ar.PNG)
 
 ### The game in action
-![alt tag](https://raw.githubusercontent.com/BjornHansson/AsymmetricAugmentedRealityGame/master/argame.PNG)
+![alt tag](https://raw.githubusercontent.com/warriv93/AsymmetricAugmentedRealityGame/master/argame.PNG)
 
