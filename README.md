@@ -1,4 +1,4 @@
-# AsymmetricAugmentedRealityGame
+# Asymmetric Augmented Reality Game
 This project was conducted for Connected Systems and Devices class during our Master in Computer Science.
 It is a two player augmented reality game using an Axis camera.
 
